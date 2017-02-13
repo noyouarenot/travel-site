@@ -19,7 +19,12 @@
 		margin-right: 0.5rem;
 		margin-left: 0;
 		display: inline-block;
+		position:relative;
+		top:8px;
 	}
+	}
+	&--blue{
+		color:$mainBlue;
 	}
 	
 
